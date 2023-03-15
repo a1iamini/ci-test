@@ -8,9 +8,6 @@ on:
     branches:
     - 'main'
     - 'feature/**'
-  
-# permissions:
-#   contents: read
 
 jobs:
   build:
