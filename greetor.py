@@ -3,6 +3,6 @@ def greetor():
 	return "how are you?"
 greetor()
 
-def greetor():
+def second_greetor():
 	return "hi.. how is it going?"
 
