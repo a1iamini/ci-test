@@ -1,5 +1,5 @@
 import unittest
-from greetor import greetor
+from greetor import greetor, second_greetor
 
 class TestGreeting(unittest.TestCase):
 	
